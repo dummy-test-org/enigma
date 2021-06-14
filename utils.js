@@ -6,6 +6,10 @@ var utils = {
   toStr: function(code){
     return String.fromCharCode.apply(this, code.map(function(i){ return i + 65 }));
   }
+  
+  useless: function(a){
+    console.log(a) //fixme
+  }
 }
 
 module.exports = utils;
