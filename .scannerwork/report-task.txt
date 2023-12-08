@@ -1,7 +1,6 @@
-organization=jeremy-davis-sonarsource-github
-projectKey=jeremy-davis-sonarsource_enigma
-serverUrl=https://jay.eu.ngrok.io
-serverVersion=7.7-SNAPSHOT
-dashboardUrl=https://jay.eu.ngrok.io/dashboard?id=jeremy-davis-sonarsource_enigma
-ceTaskId=AWjhXAEQzwYynXDK587P
-ceTaskUrl=https://jay.eu.ngrok.io/api/ce/task?id=AWjhXAEQzwYynXDK587P
+projectKey=enigma
+serverUrl=http://localhost:9000
+serverVersion=10.4-SNAPSHOT
+dashboardUrl=http://localhost:9000/dashboard?id=enigma&pullRequest=9
+ceTaskId=AYxJjMOyNwCNTcFMe730
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYxJjMOyNwCNTcFMe730
